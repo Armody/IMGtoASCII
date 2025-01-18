@@ -1,2 +1,2 @@
 # IMGtoASCII
-Very simple and scuffedpython script to convert images to ASCII art.
+Very simple and scuffed python script to convert images to ASCII art.
